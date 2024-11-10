@@ -2,6 +2,10 @@
 
 The **Kasamba Mall Smart System** is designed to transform Kasamba Mall into a smart, secure, and efficient environment using IoT technologies. The system enhances the experience of tenants, management, and customers by automating access control, managing tenant and customer facilities, and monitoring mall usage. Key features include occupancy tracking, access restrictions, and remote management via a smartphone app with Bluetooth capabilities.
 
+# Kasamba Mall Smart System
+
+The **Kasamba Mall Smart System** is designed to transform Kasamba Mall into a smart, secure, and efficient environment using IoT technologies. The system enhances the experience of tenants, management, and customers by automating access control, managing tenant and customer facilities, and monitoring mall usage. Key features include occupancy tracking, access restrictions, and remote management via a smartphone app with Bluetooth capabilities.
+
 ## Table of Contents
 
 - [Description](#description)
@@ -118,4 +122,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
+## Contact
+
+For questions or more information, contact me at [katex911@gmail.com](mailto:katex911@gmail.com).
 For questions or more information, contact me at [katex911@gmail.com](mailto:katex911@gmail.com).
