@@ -89,11 +89,11 @@ The Kasamba Mall Smart System automates and secures Kasamba Mall operations, off
 
 - **Hardware Setup**
 
-  ![Hardware_Setup](/home/katende/SYSTEMSPROJECT/Images/Hardware Setup.png)
+  ![Hardware_Setup](./Images/Hardware_Setup.png)
 
 - **Simulation Result**
 
-  ![Simulation Result](/home/katende/SYSTEMSPROJECT/Images/Simulation_Result.png)
+  ![Simulation_Result](./Images/Simulation_Result.png)
 
 ## Contributing
 
